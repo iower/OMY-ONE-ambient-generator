@@ -1,0 +1,4 @@
+[submodule "style/OMI-ONE-style"]
+	path = style/OMI-ONE-style
+	url = https://github.com/iower/OMI-ONE-style.git
+	branch = master
