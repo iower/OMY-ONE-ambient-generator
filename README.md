@@ -1,4 +1,4 @@
-# OMI|ONE Ambient generator
+# OMY|ONE Ambient generator
 
 This is a OMI|ONE module that can be run standalone.
 
@@ -6,5 +6,10 @@ This is a OMI|ONE module that can be run standalone.
 
 ## Development
 
-> > npm i
-> > npx gulp
+```
+> npm i
+```
+
+```
+> npx gulp
+```
